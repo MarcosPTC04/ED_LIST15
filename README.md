@@ -93,7 +93,7 @@ Primeiro elemento:
 
 # 👨‍💻 Autor
 
-**Marcos Antonio de Oliveira Filho**
-Curso: Análise e Desenvolvimento de Sistemas
+**Marcos Antonio de Oliveira Filho**  
+Curso: Análise e Desenvolvimento de Sistemas  
 Disciplina: Estrutura de Dados I
 
