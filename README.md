@@ -94,9 +94,6 @@ Primeiro elemento:
 # 👨‍💻 Autor
 
 **Marcos Antonio de Oliveira Filho**
-
 Curso: Análise e Desenvolvimento de Sistemas
-
 Disciplina: Estrutura de Dados I
 
-Projeto desenvolvido como atividade da **EDList15**.
